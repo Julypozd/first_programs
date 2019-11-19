@@ -17,3 +17,4 @@ end
 	
 p hangman("bob",["b"])
 p hangman("alphabet",["a","h"])
+p hangman("yulia", ["y, i"])
